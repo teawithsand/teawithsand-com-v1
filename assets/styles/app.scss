@@ -1,0 +1,36 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~another-react-gallery/scss/style.scss";
+
+@import "./spinner.scss";
+@import "./navbar.scss";
+@import "./util.scss";
+
+@import "./toast.scss";
+
+@import "./langkaBrowseGame.scss";
+@import "./about.scss";
+
+@import "./component/gallery.scss";
+@import "./component/cookieBanner.scss";
+
+@import "./page/aboutme.scss";
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.text-justified {
+    text-align: justify!important;
+    text-justify: inter-word!important;
+}
+
+.gallery-sized-container {
+    height: calc(min(70vh, 600px));
+}

@@ -1,0 +1,86 @@
+version: '3.7'
+
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspace:cached
+
+    # Overrides default command so things don't shut down after the process ends.
+    command: sleep infinity
+
+    # Runs app on the same network as the database container, allows "forwardPorts" in devcontainer.json function.
+    networks: 
+      - backendnet
+    depends_on:
+      - db
+
+    # Uncomment the next line to use a non-root user for all processes.
+    # user: node
+
+    # Use "forwardPorts" in **devcontainer.json** to forward an app port locally. 
+    # (Adding the "ports" property to this file will not forward from a Codespace.)
+
+  rabbitmq:
+    image: rabbitmq:3.9-management
+    deploy:
+      resources:
+        limits:
+          memory: 128M
+    networks: 
+      - backendnet
+
+  db:
+    image: postgres:14
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    volumes: 
+      - postgres-data:/var/lib/postgresql/data
+
+    networks: 
+      - backendnet
+
+  mdb:
+    image: mongo:latest
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo
+      MONGO_INITDB_ROOT_PASSWORD: mongo
+    volumes: 
+      - mongodb-data:/data/db
+
+    networks: 
+      - backendnet
+
+    # Add "forwardPorts": ["****"] to **devcontainer.json** to forward MongoDB locally.
+    # (Adding the "ports" property to this file will not forward from a Codespace.)
+
+  redis:
+    image: i386/redis:6.2
+    deploy:
+      resources:
+        limits:
+          memory: 128M
+    networks:
+      - backendnet
+
+  pgadmin:
+    container_name: pgadmin4_container
+    image: dpage/pgadmin4
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@localhost
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+
+networks:
+  backendnet:
+
+volumes:
+  postgres-data:
+  mongodb-data:

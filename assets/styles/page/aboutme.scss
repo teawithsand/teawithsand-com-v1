@@ -1,0 +1,7 @@
+.about-me__image {
+    max-width: min(150px, max(20vh, 20vw));
+    max-height: min(150px, max(20vh, 20vw));
+    object-fit: contain;
+    float: right;
+    margin-right: 10px;
+}

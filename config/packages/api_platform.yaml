@@ -1,0 +1,27 @@
+api_platform:
+    mapping:
+        paths: ['%kernel.project_dir%/src/Entity']
+    patch_formats:
+        json: ['application/merge-patch+json']
+    swagger:
+        versions: [3]
+
+    path_segment_name_generator: api_platform.path_segment_name_generator.dash
+
+    formats:
+        # TODO(teawithsand): disalbe jsonld for production  
+        jsonld:   ['application/ld+json']
+        jsonhal:  ['application/hal+json']
+        jsonapi:  ['application/vnd.api+json']
+        json:     ['application/json']
+        xml:      ['application/xml', 'text/xml']
+        yaml:     ['application/x-yaml']
+        csv:      ['text/csv']
+        html:     ['text/html']
+
+    allow_plain_identifiers: true
+
+when@prod:
+    api_platform:
+        formats:
+            json:     ['application/json']

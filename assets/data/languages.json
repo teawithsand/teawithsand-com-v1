@@ -1,0 +1,1106 @@
+[
+    {
+        "englishName": "Afar",
+        "twoLetterCode": "aa",
+        "threeLetterCode": "aar",
+        "frenchName": "afar"
+    },
+    {
+        "englishName": "Abkhazian",
+        "twoLetterCode": "ab",
+        "threeLetterCode": "abk",
+        "frenchName": "abkhaze"
+    },
+    {
+        "englishName": "Avestan",
+        "twoLetterCode": "ae",
+        "threeLetterCode": "ave",
+        "frenchName": "avestique"
+    },
+    {
+        "englishName": "Afrikaans",
+        "twoLetterCode": "af",
+        "threeLetterCode": "afr",
+        "frenchName": "afrikaans"
+    },
+    {
+        "englishName": "Akan",
+        "twoLetterCode": "ak",
+        "threeLetterCode": "aka",
+        "frenchName": "akan"
+    },
+    {
+        "englishName": "Amharic",
+        "twoLetterCode": "am",
+        "threeLetterCode": "amh",
+        "frenchName": "amharique"
+    },
+    {
+        "englishName": "Aragonese",
+        "twoLetterCode": "an",
+        "threeLetterCode": "arg",
+        "frenchName": "aragonais"
+    },
+    {
+        "englishName": "Arabic",
+        "twoLetterCode": "ar",
+        "threeLetterCode": "ara",
+        "frenchName": "arabe"
+    },
+    {
+        "englishName": "Assamese",
+        "twoLetterCode": "as",
+        "threeLetterCode": "asm",
+        "frenchName": "assamais"
+    },
+    {
+        "englishName": "Avaric",
+        "twoLetterCode": "av",
+        "threeLetterCode": "ava",
+        "frenchName": "avar"
+    },
+    {
+        "englishName": "Aymara",
+        "twoLetterCode": "ay",
+        "threeLetterCode": "aym",
+        "frenchName": "aymara"
+    },
+    {
+        "englishName": "Azerbaijani",
+        "twoLetterCode": "az",
+        "threeLetterCode": "aze",
+        "frenchName": "azéri"
+    },
+    {
+        "englishName": "Bashkir",
+        "twoLetterCode": "ba",
+        "threeLetterCode": "bak",
+        "frenchName": "bachkir"
+    },
+    {
+        "englishName": "Belarusian",
+        "twoLetterCode": "be",
+        "threeLetterCode": "bel",
+        "frenchName": "biélorusse"
+    },
+    {
+        "englishName": "Bulgarian",
+        "twoLetterCode": "bg",
+        "threeLetterCode": "bul",
+        "frenchName": "bulgare"
+    },
+    {
+        "englishName": "Bihari languages",
+        "twoLetterCode": "bh",
+        "threeLetterCode": "bih",
+        "frenchName": "langues biharis"
+    },
+    {
+        "englishName": "Bislama",
+        "twoLetterCode": "bi",
+        "threeLetterCode": "bis",
+        "frenchName": "bichlamar"
+    },
+    {
+        "englishName": "Bambara",
+        "twoLetterCode": "bm",
+        "threeLetterCode": "bam",
+        "frenchName": "bambara"
+    },
+    {
+        "englishName": "Bengali",
+        "twoLetterCode": "bn",
+        "threeLetterCode": "ben",
+        "frenchName": "bengali"
+    },
+    {
+        "englishName": "Tibetan",
+        "twoLetterCode": "bo",
+        "threeLetterCode": "tib",
+        "frenchName": "tibétain"
+    },
+    {
+        "englishName": "Breton",
+        "twoLetterCode": "br",
+        "threeLetterCode": "bre",
+        "frenchName": "breton"
+    },
+    {
+        "englishName": "Bosnian",
+        "twoLetterCode": "bs",
+        "threeLetterCode": "bos",
+        "frenchName": "bosniaque"
+    },
+    {
+        "englishName": "Catalan; Valencian",
+        "twoLetterCode": "ca",
+        "threeLetterCode": "cat",
+        "frenchName": "catalan; valencien"
+    },
+    {
+        "englishName": "Chechen",
+        "twoLetterCode": "ce",
+        "threeLetterCode": "che",
+        "frenchName": "tchétchène"
+    },
+    {
+        "englishName": "Chamorro",
+        "twoLetterCode": "ch",
+        "threeLetterCode": "cha",
+        "frenchName": "chamorro"
+    },
+    {
+        "englishName": "Corsican",
+        "twoLetterCode": "co",
+        "threeLetterCode": "cos",
+        "frenchName": "corse"
+    },
+    {
+        "englishName": "Cree",
+        "twoLetterCode": "cr",
+        "threeLetterCode": "cre",
+        "frenchName": "cree"
+    },
+    {
+        "englishName": "Czech",
+        "twoLetterCode": "cs",
+        "threeLetterCode": "cze",
+        "frenchName": "tchèque"
+    },
+    {
+        "englishName": "Church Slavic; Slavonic;<br>Old Bulgarian",
+        "twoLetterCode": "cu",
+        "threeLetterCode": "chu",
+        "frenchName": "slavon d'église; slavon liturgique;<br>vieux bulgare"
+    },
+    {
+        "englishName": "Chuvash",
+        "twoLetterCode": "cv",
+        "threeLetterCode": "chv",
+        "frenchName": "tchouvache"
+    },
+    {
+        "englishName": "Welsh",
+        "twoLetterCode": "cy",
+        "threeLetterCode": "wel",
+        "frenchName": "gallois"
+    },
+    {
+        "englishName": "Danish",
+        "twoLetterCode": "da",
+        "threeLetterCode": "dan",
+        "frenchName": "danois"
+    },
+    {
+        "englishName": "German",
+        "twoLetterCode": "de",
+        "threeLetterCode": "ger",
+        "frenchName": "allemand"
+    },
+    {
+        "englishName": "Divehi; Dhivehi; Maldivian",
+        "twoLetterCode": "dv",
+        "threeLetterCode": "div",
+        "frenchName": "maldivien"
+    },
+    {
+        "englishName": "Dzongkha",
+        "twoLetterCode": "dz",
+        "threeLetterCode": "dzo",
+        "frenchName": "dzongkha"
+    },
+    {
+        "englishName": "Ewe",
+        "twoLetterCode": "ee",
+        "threeLetterCode": "ewe",
+        "frenchName": "éwé"
+    },
+    {
+        "englishName": "Greek, Modern (1453-)",
+        "twoLetterCode": "el",
+        "threeLetterCode": "gre",
+        "frenchName": "grec moderne (après 1453)"
+    },
+    {
+        "englishName": "English",
+        "twoLetterCode": "en",
+        "threeLetterCode": "eng",
+        "frenchName": "anglais"
+    },
+    {
+        "englishName": "Esperanto",
+        "twoLetterCode": "eo",
+        "threeLetterCode": "epo",
+        "frenchName": "espéranto"
+    },
+    {
+        "englishName": "Spanish; Castilian",
+        "twoLetterCode": "es",
+        "threeLetterCode": "spa",
+        "frenchName": "espagnol; castillan"
+    },
+    {
+        "englishName": "Estonian",
+        "twoLetterCode": "et",
+        "threeLetterCode": "est",
+        "frenchName": "estonien"
+    },
+    {
+        "englishName": "Basque",
+        "twoLetterCode": "eu",
+        "threeLetterCode": "baq",
+        "frenchName": "basque"
+    },
+    {
+        "englishName": "Persian",
+        "twoLetterCode": "fa",
+        "threeLetterCode": "per",
+        "frenchName": "persan"
+    },
+    {
+        "englishName": "Fulah",
+        "twoLetterCode": "ff",
+        "threeLetterCode": "ful",
+        "frenchName": "peul"
+    },
+    {
+        "englishName": "Finnish",
+        "twoLetterCode": "fi",
+        "threeLetterCode": "fin",
+        "frenchName": "finnois"
+    },
+    {
+        "englishName": "Fijian",
+        "twoLetterCode": "fj",
+        "threeLetterCode": "fij",
+        "frenchName": "fidjien"
+    },
+    {
+        "englishName": "Faroese",
+        "twoLetterCode": "fo",
+        "threeLetterCode": "fao",
+        "frenchName": "féroïen"
+    },
+    {
+        "englishName": "French",
+        "twoLetterCode": "fr",
+        "threeLetterCode": "fre",
+        "frenchName": "français"
+    },
+    {
+        "englishName": "Western Frisian",
+        "twoLetterCode": "fy",
+        "threeLetterCode": "fry",
+        "frenchName": "frison occidental"
+    },
+    {
+        "englishName": "Irish",
+        "twoLetterCode": "ga",
+        "threeLetterCode": "gle",
+        "frenchName": "irlandais"
+    },
+    {
+        "englishName": "Gaelic; Scottish Gaelic",
+        "twoLetterCode": "gd",
+        "threeLetterCode": "gla",
+        "frenchName": "gaélique; gaélique écossais"
+    },
+    {
+        "englishName": "Galician",
+        "twoLetterCode": "gl",
+        "threeLetterCode": "glg",
+        "frenchName": "galicien"
+    },
+    {
+        "englishName": "Guarani",
+        "twoLetterCode": "gn",
+        "threeLetterCode": "grn",
+        "frenchName": "guarani"
+    },
+    {
+        "englishName": "Gujarati",
+        "twoLetterCode": "gu",
+        "threeLetterCode": "guj",
+        "frenchName": "goudjrati"
+    },
+    {
+        "englishName": "Manx",
+        "twoLetterCode": "gv",
+        "threeLetterCode": "glv",
+        "frenchName": "manx; mannois"
+    },
+    {
+        "englishName": "Hausa",
+        "twoLetterCode": "ha",
+        "threeLetterCode": "hau",
+        "frenchName": "haoussa"
+    },
+    {
+        "englishName": "Hebrew",
+        "twoLetterCode": "he",
+        "threeLetterCode": "heb",
+        "frenchName": "hébreu"
+    },
+    {
+        "englishName": "Hindi",
+        "twoLetterCode": "hi",
+        "threeLetterCode": "hin",
+        "frenchName": "hindi"
+    },
+    {
+        "englishName": "Hiri Motu",
+        "twoLetterCode": "ho",
+        "threeLetterCode": "hmo",
+        "frenchName": "hiri motu"
+    },
+    {
+        "englishName": "Croatian",
+        "twoLetterCode": "hr",
+        "threeLetterCode": "hrv",
+        "frenchName": "croate"
+    },
+    {
+        "englishName": "Haitian; Haitian Creole",
+        "twoLetterCode": "ht",
+        "threeLetterCode": "hat",
+        "frenchName": "haïtien; créole haïtien"
+    },
+    {
+        "englishName": "Hungarian",
+        "twoLetterCode": "hu",
+        "threeLetterCode": "hun",
+        "frenchName": "hongrois"
+    },
+    {
+        "englishName": "Armenian",
+        "twoLetterCode": "hy",
+        "threeLetterCode": "arm",
+        "frenchName": "arménien"
+    },
+    {
+        "englishName": "Herero",
+        "twoLetterCode": "hz",
+        "threeLetterCode": "her",
+        "frenchName": "herero"
+    },
+    {
+        "englishName": "Interlingua",
+        "twoLetterCode": "ia",
+        "threeLetterCode": "ina",
+        "frenchName": "interlingua"
+    },
+    {
+        "englishName": "Indonesian",
+        "twoLetterCode": "id",
+        "threeLetterCode": "ind",
+        "frenchName": "indonésien"
+    },
+    {
+        "englishName": "Interlingue; Occidental",
+        "twoLetterCode": "ie",
+        "threeLetterCode": "ile",
+        "frenchName": "interlingue"
+    },
+    {
+        "englishName": "Igbo",
+        "twoLetterCode": "ig",
+        "threeLetterCode": "ibo",
+        "frenchName": "igbo"
+    },
+    {
+        "englishName": "Sichuan Yi; Nuosu",
+        "twoLetterCode": "ii",
+        "threeLetterCode": "iii",
+        "frenchName": "yi de Sichuan"
+    },
+    {
+        "englishName": "Inupiaq",
+        "twoLetterCode": "ik",
+        "threeLetterCode": "ipk",
+        "frenchName": "inupiaq"
+    },
+    {
+        "englishName": "Ido",
+        "twoLetterCode": "io",
+        "threeLetterCode": "ido",
+        "frenchName": "ido"
+    },
+    {
+        "englishName": "Icelandic",
+        "twoLetterCode": "is",
+        "threeLetterCode": "ice",
+        "frenchName": "islandais"
+    },
+    {
+        "englishName": "Italian",
+        "twoLetterCode": "it",
+        "threeLetterCode": "ita",
+        "frenchName": "italien"
+    },
+    {
+        "englishName": "Inuktitut",
+        "twoLetterCode": "iu",
+        "threeLetterCode": "iku",
+        "frenchName": "inuktitut"
+    },
+    {
+        "englishName": "Japanese",
+        "twoLetterCode": "ja",
+        "threeLetterCode": "jpn",
+        "frenchName": "japonais"
+    },
+    {
+        "englishName": "Javanese",
+        "twoLetterCode": "jv",
+        "threeLetterCode": "jav",
+        "frenchName": "javanais"
+    },
+    {
+        "englishName": "Georgian",
+        "twoLetterCode": "ka",
+        "threeLetterCode": "geo",
+        "frenchName": "géorgien"
+    },
+    {
+        "englishName": "Kongo",
+        "twoLetterCode": "kg",
+        "threeLetterCode": "kon",
+        "frenchName": "kongo"
+    },
+    {
+        "englishName": "Kikuyu; Gikuyu",
+        "twoLetterCode": "ki",
+        "threeLetterCode": "kik",
+        "frenchName": "kikuyu"
+    },
+    {
+        "englishName": "Kuanyama; Kwanyama",
+        "twoLetterCode": "kj",
+        "threeLetterCode": "kua",
+        "frenchName": "kuanyama; kwanyama"
+    },
+    {
+        "englishName": "Kazakh",
+        "twoLetterCode": "kk",
+        "threeLetterCode": "kaz",
+        "frenchName": "kazakh"
+    },
+    {
+        "englishName": "Kalaallisut; Greenlandic",
+        "twoLetterCode": "kl",
+        "threeLetterCode": "kal",
+        "frenchName": "groenlandais"
+    },
+    {
+        "englishName": "Central Khmer",
+        "twoLetterCode": "km",
+        "threeLetterCode": "khm",
+        "frenchName": "khmer central"
+    },
+    {
+        "englishName": "Kannada",
+        "twoLetterCode": "kn",
+        "threeLetterCode": "kan",
+        "frenchName": "kannada"
+    },
+    {
+        "englishName": "Korean",
+        "twoLetterCode": "ko",
+        "threeLetterCode": "kor",
+        "frenchName": "coréen"
+    },
+    {
+        "englishName": "Kanuri",
+        "twoLetterCode": "kr",
+        "threeLetterCode": "kau",
+        "frenchName": "kanouri"
+    },
+    {
+        "englishName": "Kashmiri",
+        "twoLetterCode": "ks",
+        "threeLetterCode": "kas",
+        "frenchName": "kashmiri"
+    },
+    {
+        "englishName": "Kurdish",
+        "twoLetterCode": "ku",
+        "threeLetterCode": "kur",
+        "frenchName": "kurde"
+    },
+    {
+        "englishName": "Komi",
+        "twoLetterCode": "kv",
+        "threeLetterCode": "kom",
+        "frenchName": "kom"
+    },
+    {
+        "englishName": "Cornish",
+        "twoLetterCode": "kw",
+        "threeLetterCode": "cor",
+        "frenchName": "cornique"
+    },
+    {
+        "englishName": "Kirghiz; Kyrgyz",
+        "twoLetterCode": "ky",
+        "threeLetterCode": "kir",
+        "frenchName": "kirghiz"
+    },
+    {
+        "englishName": "Latin",
+        "twoLetterCode": "la",
+        "threeLetterCode": "lat",
+        "frenchName": "latin"
+    },
+    {
+        "englishName": "Luxembourgish; Letzeburgesch",
+        "twoLetterCode": "lb",
+        "threeLetterCode": "ltz",
+        "frenchName": "luxembourgeois"
+    },
+    {
+        "englishName": "Ganda",
+        "twoLetterCode": "lg",
+        "threeLetterCode": "lug",
+        "frenchName": "ganda"
+    },
+    {
+        "englishName": "Limburgan; Limburger; Limburgish",
+        "twoLetterCode": "li",
+        "threeLetterCode": "lim",
+        "frenchName": "limbourgeois"
+    },
+    {
+        "englishName": "Lingala",
+        "twoLetterCode": "ln",
+        "threeLetterCode": "lin",
+        "frenchName": "lingala"
+    },
+    {
+        "englishName": "Lao",
+        "twoLetterCode": "lo",
+        "threeLetterCode": "lao",
+        "frenchName": "lao"
+    },
+    {
+        "englishName": "Lithuanian",
+        "twoLetterCode": "lt",
+        "threeLetterCode": "lit",
+        "frenchName": "lituanien"
+    },
+    {
+        "englishName": "Luba-Katanga",
+        "twoLetterCode": "lu",
+        "threeLetterCode": "lub",
+        "frenchName": "luba-katanga"
+    },
+    {
+        "englishName": "Latvian",
+        "twoLetterCode": "lv",
+        "threeLetterCode": "lav",
+        "frenchName": "letton"
+    },
+    {
+        "englishName": "Malagasy",
+        "twoLetterCode": "mg",
+        "threeLetterCode": "mlg",
+        "frenchName": "malgache"
+    },
+    {
+        "englishName": "Marshallese",
+        "twoLetterCode": "mh",
+        "threeLetterCode": "mah",
+        "frenchName": "marshall"
+    },
+    {
+        "englishName": "Maori",
+        "twoLetterCode": "mi",
+        "threeLetterCode": "mao",
+        "frenchName": "maori"
+    },
+    {
+        "englishName": "Macedonian",
+        "twoLetterCode": "mk",
+        "threeLetterCode": "mac",
+        "frenchName": "macédonien"
+    },
+    {
+        "englishName": "Malayalam",
+        "twoLetterCode": "ml",
+        "threeLetterCode": "mal",
+        "frenchName": "malayalam"
+    },
+    {
+        "englishName": "Mongolian",
+        "twoLetterCode": "mn",
+        "threeLetterCode": "mon",
+        "frenchName": "mongol"
+    },
+    {
+        "englishName": "Marathi",
+        "twoLetterCode": "mr",
+        "threeLetterCode": "mar",
+        "frenchName": "marathe"
+    },
+    {
+        "englishName": "Malay",
+        "twoLetterCode": "ms",
+        "threeLetterCode": "may",
+        "frenchName": "malais"
+    },
+    {
+        "englishName": "Maltese",
+        "twoLetterCode": "mt",
+        "threeLetterCode": "mlt",
+        "frenchName": "maltais"
+    },
+    {
+        "englishName": "Burmese",
+        "twoLetterCode": "my",
+        "threeLetterCode": "bur",
+        "frenchName": "birman"
+    },
+    {
+        "englishName": "Nauru",
+        "twoLetterCode": "na",
+        "threeLetterCode": "nau",
+        "frenchName": "nauruan"
+    },
+    {
+        "englishName": "Norwegian Bokmål",
+        "twoLetterCode": "nb",
+        "threeLetterCode": "nob",
+        "frenchName": "norvégien bokmål"
+    },
+    {
+        "englishName": "Ndebele, North; North Ndebele",
+        "twoLetterCode": "nd",
+        "threeLetterCode": "nde",
+        "frenchName": "ndébélé du Nord"
+    },
+    {
+        "englishName": "Nepali",
+        "twoLetterCode": "ne",
+        "threeLetterCode": "nep",
+        "frenchName": "népalais"
+    },
+    {
+        "englishName": "Ndonga",
+        "twoLetterCode": "ng",
+        "threeLetterCode": "ndo",
+        "frenchName": "ndonga"
+    },
+    {
+        "englishName": "Dutch; Flemish",
+        "twoLetterCode": "nl",
+        "threeLetterCode": "dut",
+        "frenchName": "néerlandais; flamand"
+    },
+    {
+        "englishName": "Norwegian Nynorsk",
+        "twoLetterCode": "nn",
+        "threeLetterCode": "nno",
+        "frenchName": "norvégien nynorsk; nynorsk, norvégien"
+    },
+    {
+        "englishName": "Norwegian",
+        "twoLetterCode": "no",
+        "threeLetterCode": "nor",
+        "frenchName": "norvégien"
+    },
+    {
+        "englishName": "Ndebele, South; South Ndebele",
+        "twoLetterCode": "nr",
+        "threeLetterCode": "nbl",
+        "frenchName": "ndébélé du Sud"
+    },
+    {
+        "englishName": "Navajo; Navaho",
+        "twoLetterCode": "nv",
+        "threeLetterCode": "nav",
+        "frenchName": "navaho"
+    },
+    {
+        "englishName": "Chichewa; Chewa; Nyanja",
+        "twoLetterCode": "ny",
+        "threeLetterCode": "nya",
+        "frenchName": "chichewa; chewa; nyanja"
+    },
+    {
+        "englishName": "Occitan (post 1500)",
+        "twoLetterCode": "oc",
+        "threeLetterCode": "oci",
+        "frenchName": "occitan (après 1500)"
+    },
+    {
+        "englishName": "Ojibwa",
+        "twoLetterCode": "oj",
+        "threeLetterCode": "oji",
+        "frenchName": "ojibwa"
+    },
+    {
+        "englishName": "Oromo",
+        "twoLetterCode": "om",
+        "threeLetterCode": "orm",
+        "frenchName": "galla"
+    },
+    {
+        "englishName": "Oriya",
+        "twoLetterCode": "or",
+        "threeLetterCode": "ori",
+        "frenchName": "oriya"
+    },
+    {
+        "englishName": "Ossetian; Ossetic",
+        "twoLetterCode": "os",
+        "threeLetterCode": "oss",
+        "frenchName": "ossète"
+    },
+    {
+        "englishName": "Panjabi; Punjabi",
+        "twoLetterCode": "pa",
+        "threeLetterCode": "pan",
+        "frenchName": "pendjabi"
+    },
+    {
+        "englishName": "Pali",
+        "twoLetterCode": "pi",
+        "threeLetterCode": "pli",
+        "frenchName": "pali"
+    },
+    {
+        "englishName": "Polish",
+        "twoLetterCode": "pl",
+        "threeLetterCode": "pol",
+        "frenchName": "polonais"
+    },
+    {
+        "englishName": "Pushto; Pashto",
+        "twoLetterCode": "ps",
+        "threeLetterCode": "pus",
+        "frenchName": "pachto"
+    },
+    {
+        "englishName": "Portuguese",
+        "twoLetterCode": "pt",
+        "threeLetterCode": "por",
+        "frenchName": "portugais"
+    },
+    {
+        "englishName": "Quechua",
+        "twoLetterCode": "qu",
+        "threeLetterCode": "que",
+        "frenchName": "quechua"
+    },
+    {
+        "englishName": "Romansh",
+        "twoLetterCode": "rm",
+        "threeLetterCode": "roh",
+        "frenchName": "romanche"
+    },
+    {
+        "englishName": "Rundi",
+        "twoLetterCode": "rn",
+        "threeLetterCode": "run",
+        "frenchName": "rundi"
+    },
+    {
+        "englishName": "Romanian; Moldavian; Moldovan",
+        "twoLetterCode": "ro",
+        "threeLetterCode": "rum",
+        "frenchName": "roumain; moldave"
+    },
+    {
+        "englishName": "Russian",
+        "twoLetterCode": "ru",
+        "threeLetterCode": "rus",
+        "frenchName": "russe"
+    },
+    {
+        "englishName": "Kinyarwanda",
+        "twoLetterCode": "rw",
+        "threeLetterCode": "kin",
+        "frenchName": "rwanda"
+    },
+    {
+        "englishName": "Sanskrit",
+        "twoLetterCode": "sa",
+        "threeLetterCode": "san",
+        "frenchName": "sanskrit"
+    },
+    {
+        "englishName": "Sardinian",
+        "twoLetterCode": "sc",
+        "threeLetterCode": "srd",
+        "frenchName": "sarde"
+    },
+    {
+        "englishName": "Sindhi",
+        "twoLetterCode": "sd",
+        "threeLetterCode": "snd",
+        "frenchName": "sindhi"
+    },
+    {
+        "englishName": "Northern Sami",
+        "twoLetterCode": "se",
+        "threeLetterCode": "sme",
+        "frenchName": "sami du Nord"
+    },
+    {
+        "englishName": "Sango",
+        "twoLetterCode": "sg",
+        "threeLetterCode": "sag",
+        "frenchName": "sango"
+    },
+    {
+        "englishName": "Sinhala; Sinhalese",
+        "twoLetterCode": "si",
+        "threeLetterCode": "sin",
+        "frenchName": "singhalais"
+    },
+    {
+        "englishName": "Slovak",
+        "twoLetterCode": "sk",
+        "threeLetterCode": "slo",
+        "frenchName": "slovaque"
+    },
+    {
+        "englishName": "Slovenian",
+        "twoLetterCode": "sl",
+        "threeLetterCode": "slv",
+        "frenchName": "slovène"
+    },
+    {
+        "englishName": "Samoan",
+        "twoLetterCode": "sm",
+        "threeLetterCode": "smo",
+        "frenchName": "samoan"
+    },
+    {
+        "englishName": "Shona",
+        "twoLetterCode": "sn",
+        "threeLetterCode": "sna",
+        "frenchName": "shona"
+    },
+    {
+        "englishName": "Somali",
+        "twoLetterCode": "so",
+        "threeLetterCode": "som",
+        "frenchName": "somali"
+    },
+    {
+        "englishName": "Albanian",
+        "twoLetterCode": "sq",
+        "threeLetterCode": "alb",
+        "frenchName": "albanais"
+    },
+    {
+        "englishName": "Serbian",
+        "twoLetterCode": "sr",
+        "threeLetterCode": "srp",
+        "frenchName": "serbe"
+    },
+    {
+        "englishName": "Swati",
+        "twoLetterCode": "ss",
+        "threeLetterCode": "ssw",
+        "frenchName": "swati"
+    },
+    {
+        "englishName": "Sotho, Southern",
+        "twoLetterCode": "st",
+        "threeLetterCode": "sot",
+        "frenchName": "sotho du Sud"
+    },
+    {
+        "englishName": "Sundanese",
+        "twoLetterCode": "su",
+        "threeLetterCode": "sun",
+        "frenchName": "soundanais"
+    },
+    {
+        "englishName": "Swedish",
+        "twoLetterCode": "sv",
+        "threeLetterCode": "swe",
+        "frenchName": "suédois"
+    },
+    {
+        "englishName": "Swahili",
+        "twoLetterCode": "sw",
+        "threeLetterCode": "swa",
+        "frenchName": "swahili"
+    },
+    {
+        "englishName": "Tamil",
+        "twoLetterCode": "ta",
+        "threeLetterCode": "tam",
+        "frenchName": "tamoul"
+    },
+    {
+        "englishName": "Telugu",
+        "twoLetterCode": "te",
+        "threeLetterCode": "tel",
+        "frenchName": "télougou"
+    },
+    {
+        "englishName": "Tajik",
+        "twoLetterCode": "tg",
+        "threeLetterCode": "tgk",
+        "frenchName": "tadjik"
+    },
+    {
+        "englishName": "Thai",
+        "twoLetterCode": "th",
+        "threeLetterCode": "tha",
+        "frenchName": "thaï"
+    },
+    {
+        "englishName": "Tigrinya",
+        "twoLetterCode": "ti",
+        "threeLetterCode": "tir",
+        "frenchName": "tigrigna"
+    },
+    {
+        "englishName": "Turkmen",
+        "twoLetterCode": "tk",
+        "threeLetterCode": "tuk",
+        "frenchName": "turkmène"
+    },
+    {
+        "englishName": "Tagalog",
+        "twoLetterCode": "tl",
+        "threeLetterCode": "tgl",
+        "frenchName": "tagalog"
+    },
+    {
+        "englishName": "Tswana",
+        "twoLetterCode": "tn",
+        "threeLetterCode": "tsn",
+        "frenchName": "tswana"
+    },
+    {
+        "englishName": "Tonga (Tonga Islands)",
+        "twoLetterCode": "to",
+        "threeLetterCode": "ton",
+        "frenchName": "tongan (Îles Tonga)"
+    },
+    {
+        "englishName": "Turkish",
+        "twoLetterCode": "tr",
+        "threeLetterCode": "tur",
+        "frenchName": "turc"
+    },
+    {
+        "englishName": "Tsonga",
+        "twoLetterCode": "ts",
+        "threeLetterCode": "tso",
+        "frenchName": "tsonga"
+    },
+    {
+        "englishName": "Tatar",
+        "twoLetterCode": "tt",
+        "threeLetterCode": "tat",
+        "frenchName": "tatar"
+    },
+    {
+        "englishName": "Twi",
+        "twoLetterCode": "tw",
+        "threeLetterCode": "twi",
+        "frenchName": "twi"
+    },
+    {
+        "englishName": "Tahitian",
+        "twoLetterCode": "ty",
+        "threeLetterCode": "tah",
+        "frenchName": "tahitien"
+    },
+    {
+        "englishName": "Uighur; Uyghur",
+        "twoLetterCode": "ug",
+        "threeLetterCode": "uig",
+        "frenchName": "ouïgour"
+    },
+    {
+        "englishName": "Ukrainian",
+        "twoLetterCode": "uk",
+        "threeLetterCode": "ukr",
+        "frenchName": "ukrainien"
+    },
+    {
+        "englishName": "Urdu",
+        "twoLetterCode": "ur",
+        "threeLetterCode": "urd",
+        "frenchName": "ourdou"
+    },
+    {
+        "englishName": "Uzbek",
+        "twoLetterCode": "uz",
+        "threeLetterCode": "uzb",
+        "frenchName": "ouszbek"
+    },
+    {
+        "englishName": "Venda",
+        "twoLetterCode": "ve",
+        "threeLetterCode": "ven",
+        "frenchName": "venda"
+    },
+    {
+        "englishName": "Vietnamese",
+        "twoLetterCode": "vi",
+        "threeLetterCode": "vie",
+        "frenchName": "vietnamien"
+    },
+    {
+        "englishName": "Volapük",
+        "twoLetterCode": "vo",
+        "threeLetterCode": "vol",
+        "frenchName": "volapük"
+    },
+    {
+        "englishName": "Walloon",
+        "twoLetterCode": "wa",
+        "threeLetterCode": "wln",
+        "frenchName": "wallon"
+    },
+    {
+        "englishName": "Wolof",
+        "twoLetterCode": "wo",
+        "threeLetterCode": "wol",
+        "frenchName": "wolof"
+    },
+    {
+        "englishName": "Xhosa",
+        "twoLetterCode": "xh",
+        "threeLetterCode": "xho",
+        "frenchName": "xhosa"
+    },
+    {
+        "englishName": "Yiddish",
+        "twoLetterCode": "yi",
+        "threeLetterCode": "yid",
+        "frenchName": "yiddish"
+    },
+    {
+        "englishName": "Yoruba",
+        "twoLetterCode": "yo",
+        "threeLetterCode": "yor",
+        "frenchName": "yoruba"
+    },
+    {
+        "englishName": "Zhuang; Chuang",
+        "twoLetterCode": "za",
+        "threeLetterCode": "zha",
+        "frenchName": "zhuang; chuang"
+    },
+    {
+        "englishName": "Chinese",
+        "twoLetterCode": "zh",
+        "threeLetterCode": "chi",
+        "frenchName": "chinois"
+    },
+    {
+        "englishName": "Zulu",
+        "twoLetterCode": "zu",
+        "threeLetterCode": "zul",
+        "frenchName": "zoulou"
+    }
+]

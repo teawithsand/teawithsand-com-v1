@@ -1,0 +1,57 @@
+$cookie-banner-width: 80%;
+$cookie-banner-width-small: 100%;
+$cookie-banner-margin-left-right: map-get($spacers, 1);
+
+.cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: calc((100% - $cookie-banner-width) / 2);
+    right: calc((100% - $cookie-banner-width) / 2);
+
+    display: flex;
+    flex-flow: row wrap;
+
+    width: calc($cookie-banner-width  - $cookie-banner-margin-left-right * 2);
+    height: max(15vh, 200px);
+
+    margin-left: $cookie-banner-margin-left-right;
+    margin-right: $cookie-banner-margin-left-right;
+
+    padding-bottom: map-get($spacers, 2);
+    padding-left: map-get($spacers, 1);
+    padding-right: map-get($spacers, 1);
+    
+    border-top: 1px solid rgba(0, 0, 0, .7);
+    border-left: 1px solid rgba(0, 0, 0, .7);
+    border-right: 1px solid rgba(0, 0, 0, .7);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+
+
+    &__text {
+        flex: 1 1 70%;
+        text-align: center;
+        align-self: center;
+    }
+
+    &__confirm {
+        flex: 1 1 30%;
+        align-self: center;
+        text-align: center;
+
+        * {
+            width: 100%;
+        }
+    }
+
+    opacity: 1;
+    @extend .bg-body;
+}
+
+@include media-breakpoint-down(md) {
+    .cookie-banner {
+        left: calc((100% - $cookie-banner-width-small) / 2);
+        right: calc((100% - $cookie-banner-width-small) / 2);
+        width: calc($cookie-banner-width-small - $cookie-banner-margin-left-right * 2);
+    }
+}

@@ -1,0 +1,21 @@
+{% extends 'email/email_base.html.twig' %}
+
+{% block body %}
+	<h1>{{ "email.changed_email.title"|trans }}</h1>
+
+	<p>
+		{{ "email.changed_email.not_requested_info"|trans }}
+	</p>
+
+	<p>
+		{{ "email.changed_email.login_ensure_correct"|trans }}
+	</p>
+
+	<p>
+		<a href="{{ url|e("html_attr") }}">
+			{{ "email.changed_email.confirm_link"|trans }}
+		</a>
+		<br>
+		{{ url }}
+	</p>
+{% endblock %}

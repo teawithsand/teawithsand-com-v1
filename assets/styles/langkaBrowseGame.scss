@@ -1,0 +1,16 @@
+.langka-browse-game--common-words-row {
+    min-height: map-get($display-font-sizes, 3) * 1.5;
+}
+
+.langka-browse-game--top-words-row {
+    min-height: map-get($display-font-sizes, 3);
+}
+
+.langka-browse-game--bottom-words-row {
+    min-height: map-get($display-font-sizes, 3);
+}
+
+.langka-browse-game--description-row {
+    min-height: 3rem;
+    text-align: center;
+}

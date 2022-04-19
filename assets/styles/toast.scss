@@ -1,0 +1,41 @@
+
+@keyframes toast--timeout--bar {
+    from {
+        width: 100%;
+    }
+    to{
+        width: 0%;
+    }
+}
+
+.toast--bar-thin {
+    height: 10px;
+    width: 100%;
+    display: block;
+    background-color: rgb(114, 114, 228)!important;
+}
+
+
+
+.toast {
+    opacity: 1;
+    background-color: white;
+    z-index: 10000;
+}
+
+.toast * {
+    opacity: 1;
+    background-color: white;
+    z-index: 10000;
+}
+.toast-container {
+    opacity: 1;
+    background-color: white;
+    z-index: 10000;
+}
+
+.toast-container * {
+    opacity: 1;
+    background-color: white;
+    z-index: 10000;
+}

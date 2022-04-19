@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{# {% block title %}Hello HomeController!{% endblock %} #}
+
+
+{% block body %}
+<input type="hidden" id="recaptcha-public-token" value="{{ recaptchaPublicToken|e("html_attr") }}"/>
+<div id="root"></div>
+{% endblock %}
+
+{% block stylesheets %}
+    {{ encore_entry_link_tags('app') }}
+{% endblock %}
+
+{% block javascripts %}
+    {{ encore_entry_script_tags('app') }}
+
+    <script src="https://www.google.com/recaptcha/api.js?render=explicit" async defer></script>
+{% endblock %}
